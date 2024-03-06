@@ -46,19 +46,15 @@ And yes, the steps are a little bit high level in a few places; we'll improve th
 ![](Images/Heatsets/Front_Motor_Corners_2.png)
 ![](Images/Heatsets/Rear_Z_Belt_Attachment_Heatsets.png)
 
-
 * Add nuts to nutbars (one on, one off) and loosely attach rails to them
 ![](Images/MGN7_Nutbar.jpg)
 
-
 * Loosely attach pulleys to motors
-![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/983e859d-336d-4177-9593-3c34736e71f7)
+![](Images/Motor_Pulleys.png)
 
-* Add 2 screws to each belt-retention part (3 parts total).  They use formed threads.  Push down hard until the screw is started and keep the hexdriver aligned.
-  
-![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/4f2d54fc-1bda-481e-9bb1-7fb655951ff9)
-![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/bf3be764-bd82-41c9-bdf5-4df02d453e80)
-
+* Add 2 screws to each belt-retention part (3 parts total).  They use formed threads.  Push down hard until the screw is started and keep the hexdriver aligned.  
+![](Images/Z_Belt_Retention_1.png)
+![](Images/Z_Belt_Retention_2.png)
 
 * Build a [ZeroClick](https://github.com/zruncho3d/ZeroClick), per the instructions.
 
