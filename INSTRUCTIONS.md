@@ -20,11 +20,47 @@ And yes, the steps are a little bit high level in a few places; we'll improve th
 * Print [NDNs](https://github.com/zruncho3d/f-zero/tree/main/STLs/NoDropNuts) matched to your extrusions - more than you think you'll need.
 
 ## Pre-build
-* Add heatsets where needed
+* Add heatsets to:
+  * Front_Bed_Attachment_Mirrored_x1
+  * Front_Bed_Attachment_x1
+  * Rear_Bed_Attachment_x1
+  * [a]_Front_Corner_Bump_x2
+  * [a]_Front_Corner_Bump_Mirrored_x2
+  * Motor_Corner_Screw_In_NEMA[x]_x2
+  * Rear_Corner_x1
+  * Rear_Corner_Mirrored_x1
+  * Rear_Z_Belt_Attachment_x1
+    
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/fae3e325-8dfb-466f-9efd-ede019cde9b9)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/9a2562f6-abb9-4379-a7da-3c170e36b9b4)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/1e4551fb-618d-4f74-b0f1-e3d489e56fe3)
+
   * Note that the bed attachments (3) require recessed heatsets.
+  ![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/5ea22d54-22ec-4cb1-bc7b-a17746f54cd6)
+
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/f02219d2-4c72-466a-9d77-839cdaa3a1c1)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/02b9b8c7-3c92-4063-8d4e-80ac2ed946dd)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/4d7eb565-e549-4e2f-be61-bc3a4b2a1217)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/3a54c6d2-e2f0-4e02-acc6-1fe760b809e1)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/1b2d40df-ca4a-4043-998d-854a9ecfad8d)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/6487e450-4295-4662-b4dc-0d4f2e36e4bb)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/3ae82e75-8adf-401a-83fa-1b0ec60640c2)
+
+
+
 * Add nuts to nutbars (one on, one off) and loosely attach rails to them
+![20240306_001553](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/fe29325b-ecda-47f0-a54e-d3aa047d3fc2)
+
+
 * Loosely attach pulleys to motors
-* Add 2 screws to each belt-retention part (3 parts total).  They use formed threads.  Push down hard until the screw is started and keep the hexdriver aligned.  
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/983e859d-336d-4177-9593-3c34736e71f7)
+
+* Add 2 screws to each belt-retention part (3 parts total).  They use formed threads.  Push down hard until the screw is started and keep the hexdriver aligned.
+  
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/4f2d54fc-1bda-481e-9bb1-7fb655951ff9)
+![image](https://github.com/Blargedy/tri-zero_improve_instructions/assets/25805271/79831fee-d63b-420f-bd0c-44977d299ff9)
+
+
 * Build a [ZeroClick](https://github.com/zruncho3d/ZeroClick), per the instructions.
 
 ## V0 Disassembly
